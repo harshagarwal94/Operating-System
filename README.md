@@ -54,6 +54,17 @@ Cryptography-Defense Mechanism.Guest Lecture on
 Contemporary Topics ( Virtualization and Cloud Environment)
 
 
+### memory Allocation Problem 
+
+Consider six memory partitions of size 200 KB, 400 KB, 600 KB, 500 KB,
+300 KB and 250 KB. These partitions need to be allocated to four
+processes of sizes 357 KB, 210 KB, 468 KB and 491 KB in that order.
+Perform the allocation of processes using-
+First Fit Algorithm.
+Best Fit Algorithm.
+Worst Fit Algorithm.
+Compare Which algorithms make the most efficient use of memory.
+
 # Disclaimner 
 * For Educational Purpose 
 * The repository is open source licensed in order of helping the community.
