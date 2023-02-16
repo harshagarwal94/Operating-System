@@ -1,0 +1,36 @@
+1.	 pwd command
+   ‘pwd’ command prints the absolute path to current working directory.
+ $ pwd
+2.	cal command
+Displays the calendar of the current month.
+$ cal
+3.	date command
+      Displays current time and date.
+      $ date
+Fri Jul 6 01:07:09 IST 2012
+4.	Time only  command  
+ $ date +%T
+ 01:13:14
+5.	tty command
+ $ tty
+/dev/pts/0
+6.	whoami command
+ $ whoami
+  Raghu
+7.	id command
+    This command prints user and groups (UID and GID) of the current user.
+    $ id
+8.	mkdir command
+ To create a directory, the ‘mkdir’ command is used.
+ $ mkdir example
+9.	touch command
+  $ touch file1
+10.	Changing Directories Command
+$ cd [path-to-directory]
+11.	Listing File And Directories Command
+$ ls
+
+12.	To remove or Delete
+ $ rmdir
+13.	rm file
+Deleting the file
